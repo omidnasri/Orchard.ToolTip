@@ -1,0 +1,11 @@
+﻿Name: ToolTip
+AntiForgery: Enabled
+Author: Omid Nasri
+Website: http://www.omidnasri.com/
+Version: 1.0.0
+OrchardVersion: 1.9.2.0
+Description: Add ToolTip to your site.
+Features:
+    Orchard.ToolTip:
+        Name: ToolTip
+        Description: Add ToolTip to your site.
